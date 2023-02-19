@@ -19,3 +19,10 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+## Build
+Run `nx build epic-yet`
+
+## Deploy
+
+Build first, then run `firebase deploy`. (Make sure to `firebase login` first.)
